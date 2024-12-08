@@ -34,6 +34,16 @@ The following visualizations are created:
 3. **Interactive Bar Plot (Plotly):** Enables user interaction to analyze trends dynamically.
 4. **Matplotlib Static Bar Plot:** Provides a straightforward visualization for quick comparisons.
 
+## Project Details
+
+- **Link to Project Video**: [Watch the video](https://drive.google.com/file/d/1T0lXdsQ_3YnqLbo-tGbWEpakGsdLEZEr/view?usp=sharing)  
+- **Link to GitHub Repository**: [GitHub Repository](https://github.com/IIITV-5G-and-Edge-Computing-Activity/-Latency-Testing_Tool_for_5G-vs-4G.git)  
+- **Link to Project Report Overleaf**: [Overleaf Report](https://drive.google.com/drive/folders/13BfFvEeMPWsGxtCU5mz0wqCh-KzBbyt5?usp=drive_link)  
+- **Link to Project PDF**: [Download PDF](https://drive.google.com/drive/folders/13BfFvEeMPWsGxtCU5mz0wqCh-KzBbyt5?usp=drive_link)
+
+
+
+
 ## Results
 The analysis shows:
 - **5G** has significantly better performance for **bandwidth** and **device density** compared to **4G**.
